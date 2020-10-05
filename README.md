@@ -7,3 +7,13 @@
 - 💬 Ask me about Android development
 - 📫 How to reach me: jaskirats25d@gmail.com
 - ⚡ Fun fact: I'm a fitness freak
+
+### Connect with me:
+
+[<img align="left" alt="techaddicts.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jaskirat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jaskirat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://techaddicts.in
+[instagram]: https://instagram.com/jaskirat_02
+[linkedin]: https://www.linkedin.com/in/jaskirat-singh-8a80a0187
