@@ -28,13 +28,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jaskirat2's GitHub Stats" src="https://github-readme-stats.jaskirat2.vercel.app/api?username=jaskirat2&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://techaddicts.in
 [instagram]: https://instagram.com/jaskirat_02
 [linkedin]: https://www.linkedin.com/in/jaskirat-singh-8a80a0187
