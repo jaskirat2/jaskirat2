@@ -17,7 +17,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Tech Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Quantum computers, everything you need to know](https://techaddicts.in/quantum-computers-everything-you-need-to-know/)
