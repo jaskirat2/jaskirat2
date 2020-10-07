@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning AWS and practicing DS
 - 👯 I’m looking to work with other Android developers
 - 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about Android development
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: jaskirats25d@gmail.com
 - ⚡ Fun fact: I'm a fitness freak
 
