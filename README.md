@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: jaskirats25d@gmail.com
-- ⚡ Fun fact: I'm a fitness frea
+- ⚡ Fun fact: I'm a fitness freak
 
 ### Connect with me:
 
