@@ -20,7 +20,7 @@
 ### 📕 Tech Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum computers, everything you need to know](https://techaddicts.in/quantum-computers-everything-you-need-to-know/)
+- [Quantum computers, everything you need to know](https://jaskirats25d.medium.com/quantum-computers-everything-you-need-to-know-1b527ce84d96)
 - [What is Phishing? how it works](https://techaddicts.in/what-is-phishing-how-it-works/)
 - [What are cookies?](https://techaddicts.in/what-are-cookies/)
 - [Eligius demonstration](https://bit.ly/3mAB0z2)
