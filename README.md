@@ -22,7 +22,7 @@
 - [Quantum computers, everything you need to know](https://jaskirats25d.medium.com/quantum-computers-everything-you-need-to-know-1b527ce84d96)
 - [What is Phishing? how it works](https://jaskirats25d.medium.com/what-is-phishing-how-it-works-6f41e497d0de)
 - [What are cookies?](https://jaskirats25d.medium.com/what-are-cookies-how-to-disable-cookies-a043482bb0da)
-- [Eligius demonstration](https://bit.ly/3mAB0z2)
+- [Eligius demonstration](https://www.linkedin.com/feed/update/urn:li:activity:6712978366489788416/)
 - [Bluenix demonstration](https://www.linkedin.com/posts/jaskiratsingh2_androiddevelopment-bluenix-jaskiratsingh-activity-6732924695919833088-V9ka)
 <!-- BLOG-POST-LIST:END -->
 
